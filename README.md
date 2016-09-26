@@ -36,7 +36,6 @@ See [my portfolio](https://s2paganini.com/case/ckm0zl44o0w1i0a54lryryi1d) for mo
 It's been transferred to the [NFT Lambda Service](https://github.com/silviopaganini/nft-market-service) repository.
 
 ## ⚡️ Tech-Stack
-
 - Typescript
 - Solidity
 - React
@@ -51,8 +50,6 @@ It's been transferred to the [NFT Lambda Service](https://github.com/silviopagan
 - serverless
 
 ## 🔧 .env file 
-
-```
 NODE_ENV=development
 BROWSER=chrome
 REACT_APP_SERVICE_URL=http://localhost:4000/dev
